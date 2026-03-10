@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "0a7b1e63b90d786e",
+    "type": "split",
+    "children": [
+      {
+        "id": "52250efc1e5b8192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5fcf49d89e64e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Дискретная математика/Экскурсия в теорию множеств.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Экскурсия в теорию множеств"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d89f8784a14285d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1a594bfd85aef74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ddd36d3c36826d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d30684cbdbb16424",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "e1a480ebf2da20b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "ce6f10e20a938e56",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2ad0b6fcc31c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6945a535a704ab6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Математика/Теория Вероятностей и Математическая статичтика/Геометрическая вероятность..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Геометрическая вероятность."
+            }
+          },
+          {
+            "id": "7b458ea7312ebb3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "f40cb6032c28af12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c42b87f93bc0e99d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "73752c7abfb9f5d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Математика/Теория Вероятностей и Математическая статичтика/Геометрическая вероятность..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Геометрическая вероятность."
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "f5fcf49d89e64e73",
+  "lastOpenFiles": [
+    "Новый текстовый документ.txt",
+    "Новый документ в формате RTF.rtf",
+    "Математика/Теория Вероятностей и Математическая статичтика/Условная вероятность.md",
+    "Математика/Теория Вероятностей и Математическая статичтика/Аксиоматическое определение Теории Вероятностей.md",
+    "Математика/Комплексный анал/Комбинаторные сопряжения.md",
+    "Без названия.base",
+    "Без названия.canvas",
+    "2026-02-23.md",
+    "Математика/Теория Вероятностей и Математическая статичтика/Статистическая вероятность.md",
+    "Математика/Теория Вероятностей и Математическая статичтика/Основные понятия Теории Вероятностей..md",
+    "ХУЙ.сосиска.md",
+    "Математика/Теория Вероятностей и Математическая статичтика/Рекомендованная Литература.md",
+    "Математика/Теория Вероятностей и Математическая статичтика/Геометрическая вероятность..md",
+    "Математика/Дискретная математика/Экскурсия в теорию множеств.md",
+    "Математика/Дискретная математика/Понятие функции и отношений множеств.md",
+    "Excalidraw/Биекция.md",
+    "Математика/Дискретная математика",
+    "data/image-12.png",
+    "Математика/Комплексный анал/Комплексные числа.md",
+    "data/image-11.png",
+    "Excalidraw/Без названия.canvas",
+    "data/image-10.png",
+    "Математика/Комплексный анал",
+    "data/image-9.png",
+    "data/image-8.png",
+    "data/image-7.png",
+    "data/image-6.png",
+    "data/image-5 1.png",
+    "data/image-4 1.png",
+    "data/image-3 1.png",
+    "Прог. Базы Данных (БД)/Реляционная алгебра..md",
+    "data",
+    "Прог. Базы Данных (БД)/Структуры баз данных.md",
+    "Прог. Базы Данных (БД)",
+    "Математика/Теория Вероятностей и Математическая статичтика/Классическое определение вероятности..md",
+    "2026-02-11.md",
+    "Случайным.md",
+    "случайными.md",
+    "Excalidraw/Drawing 2026-02-09 21.50.55.excalidraw.md",
+    "Excalidraw",
+    "Без названия 1.base",
+    "2026-02-09.md",
+    "Математика/Теория Вероятностей и Математическая статичтика",
+    "Математика",
+    "Без названия 2.md",
+    "Без названия 1.md",
+    "Добро пожаловать.md"
+  ]
+}
